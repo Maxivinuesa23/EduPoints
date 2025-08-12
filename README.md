@@ -28,7 +28,7 @@ El proyecto **EduPoints** es una aplicación web diseñada para incentivar a los
 
 Máximo Vinuesa - [@Linkedin](https://www.linkedin.com/in/maximo-vinuesa/) - maxivinuesa23@gmail.com
 
-Enlace del Proyecto: [https://github.com/Maxivinuesa23/BaseDeDatosArtistasCanciones.git](https://github.com/Maxivinuesa23/BaseDeDatosArtistasCanciones.git)
+Enlace del Proyecto: (https://github.com/Maxivinuesa23/EduPoints.git)
 
 
 ![Versión](https://img.shields.io/badge/version-1.0.0-blue.svg)
